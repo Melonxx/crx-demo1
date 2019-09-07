@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "肥肥",
-  "short_name": "肥",
+  "short_name": "toy",
   "description": "这是我的第一个ctx应用",
   "version": "1.0",
   "background": {
