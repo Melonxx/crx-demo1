@@ -1,1 +1,1 @@
-console.log('1.js', $('body'))
+console.log('1.js ', $('body'))
